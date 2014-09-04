@@ -46,6 +46,7 @@ namespace FindSmallest
                     
                 });
             }
+
             Console.ReadLine();
         }
 
